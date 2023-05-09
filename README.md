@@ -1,29 +1,19 @@
 # California-Housing-ML
-This repo uses Machine Learning algorithms to train a model to predict home prices based on some specified features
+
 <a name="readme-top"></a>
-
-
-<div align="center">
-  <br/>
-
-  <h3><b>Catalog.</b></h3>
-
-</div>
-
 
 # 📗 Table of Contents
 
-- [California-Housing-ML](#California-Housing-ML)
+- [California-Housing-ML](#california-housing-ml)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[California-Housing-ML\] ](#-California-Housing-ML)
+- [📖 \[California-Housing-ML\] ](#-california-housing-ml-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -31,8 +21,8 @@ This repo uses Machine Learning algorithms to train a model to predict home pric
   - [📝 License ](#-license-)
 
 # 📖 [California-Housing-ML] <a name="about-project"></a>
-**[California-Housing-ML]** uses OOP to create a catalog of things I own
-<!-- ## 🛠 Built With <a name="built-with"></a> -->
+
+**California-Housing-ML** This repo uses Machine Learning algorithms to train a model to predict home prices based on some specified features
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -42,11 +32,10 @@ This repo uses Machine Learning algorithms to train a model to predict home pric
 </ul>
 
 
-
 ### Key Features <a name="key-features"></a>
 
 
-- **[Object Oriented Programming]**
+- **Predict home prices in the state of Carlifonia**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,51 +54,33 @@ To get a local copy up and running, follow these steps.
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/coderacheal/Catalog.git
  Example commands:
-
-```sh
-  cd Catalog
 ```
+    git clone https://github.com/coderacheal/California-Housing-ML.git
 
-### Install
+    cd California-Housing-ML
 
-Install this project with
-
-` cd my-project
-  - Run bundle install
+```
 
 ### Usage
 
-- Run `Ruby + filename`.
+- Restart kernel
+- Run All
+- Import the model from ./finalized_model.csv
 
-Video Presentation
-[Video Link here](https://drive.google.com/file/d/1TNaMKYGhFpPJW8yeP2DaY7UNCLG5AKDw/view?usp=sharing)
-
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Racheal Appiah-kubi**
 
 - GitHub: [@coderacheal](https://github.com/coderacheal)
 - LinkedIn: [racheal-appiah-kubi](https://www.linkedin.com/in/racheal-appiah-kubi/)
 
-👤 **Bigizi Nduwayo Crispin**
-
-- GitHub: [@githubhandle](https://github.com/bigizi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/bigizi)
-  
-👤 **HABASM**
-
-- GitHub: [@githubhandle](https://github.com/habasm)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/habasm)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add a graphical user interface]**
+- [ ] **[Embed model in a Gradio App]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,7 +101,7 @@ If you like this project please give it a start and share it with your friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a> -->
 
-I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer
+I would like to appreciate the entire Python and Machine Learning community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
